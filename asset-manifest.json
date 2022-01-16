@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/labibrah/labib-portfolio/static/css/main.bea8031f.chunk.css",
+    "main.js": "/labibrah/labib-portfolio/static/js/main.56369db0.chunk.js",
+    "main.js.map": "/labibrah/labib-portfolio/static/js/main.56369db0.chunk.js.map",
+    "runtime-main.js": "/labibrah/labib-portfolio/static/js/runtime-main.fe553cf7.js",
+    "runtime-main.js.map": "/labibrah/labib-portfolio/static/js/runtime-main.fe553cf7.js.map",
+    "static/css/2.22d6b5ec.chunk.css": "/labibrah/labib-portfolio/static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.8dd0c50c.chunk.js": "/labibrah/labib-portfolio/static/js/2.8dd0c50c.chunk.js",
+    "static/js/2.8dd0c50c.chunk.js.map": "/labibrah/labib-portfolio/static/js/2.8dd0c50c.chunk.js.map",
+    "index.html": "/labibrah/labib-portfolio/index.html",
+    "precache-manifest.c4f97f8d68812a47446b2e1fa79d25b7.js": "/labibrah/labib-portfolio/precache-manifest.c4f97f8d68812a47446b2e1fa79d25b7.js",
+    "service-worker.js": "/labibrah/labib-portfolio/service-worker.js",
+    "static/css/2.22d6b5ec.chunk.css.map": "/labibrah/labib-portfolio/static/css/2.22d6b5ec.chunk.css.map",
+    "static/css/main.bea8031f.chunk.css.map": "/labibrah/labib-portfolio/static/css/main.bea8031f.chunk.css.map",
+    "static/js/2.8dd0c50c.chunk.js.LICENSE.txt": "/labibrah/labib-portfolio/static/js/2.8dd0c50c.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/labibrah/labib-portfolio/static/media/arrow.a74212b6.svg",
+    "static/media/contact-info-icon1.svg": "/labibrah/labib-portfolio/static/media/contact-info-icon1.04e4f259.svg",
+    "static/media/contact-info-icon2.svg": "/labibrah/labib-portfolio/static/media/contact-info-icon2.df4fdedf.svg",
+    "static/media/contact-info-icon3.svg": "/labibrah/labib-portfolio/static/media/contact-info-icon3.3cf93bcf.svg",
+    "static/media/contactBackground.png": "/labibrah/labib-portfolio/static/media/contactBackground.0f4894f4.png",
+    "static/media/github.svg": "/labibrah/labib-portfolio/static/media/github.bb2da441.svg",
+    "static/media/hero-image.png": "/labibrah/labib-portfolio/static/media/hero-image.1800e3d6.png",
+    "static/media/linkedin.svg": "/labibrah/labib-portfolio/static/media/linkedin.94d9daa1.svg",
+    "static/media/logo-yellow.svg": "/labibrah/labib-portfolio/static/media/logo-yellow.3825e32b.svg",
+    "static/media/logo.svg": "/labibrah/labib-portfolio/static/media/logo.4efe88e4.svg",
+    "static/media/mobile-close.svg": "/labibrah/labib-portfolio/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/labibrah/labib-portfolio/static/media/mobile-menu.10823520.svg",
+    "static/media/preview.png": "/labibrah/labib-portfolio/static/media/preview.c8ee3923.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe553cf7.js",
+    "static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.8dd0c50c.chunk.js",
+    "static/css/main.bea8031f.chunk.css",
+    "static/js/main.56369db0.chunk.js"
+  ]
+}
